@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634656482 source:c:\users\hauer\documents\progalap\07_05\main.c
+	<stdio.h>
+	<stdlib.h>
+
